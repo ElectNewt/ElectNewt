@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Yo también quiero un perfil de esos wapos.
+
+Un saludo chavalada. 
+
 <!--
 **ElectNewt/ElectNewt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
