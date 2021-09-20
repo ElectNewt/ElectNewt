@@ -11,7 +11,7 @@ Senior Software Engineer mainly working in .NET building distributed systems.
 
 I am creating software engineering videos on my [YouTube channel](https://www.youtube.com/c/NetMentor). I do specialize in .NET specially C# and Blazor.
 
-All the code for my videos can be found in my github repos, but you can find the code on my [Website](https://www.netmentor.es).
+All the code for my videos can be found in my github repos, but you can find the full explanation of the implementation on my [Website](https://www.netmentor.es).
 
 
 
