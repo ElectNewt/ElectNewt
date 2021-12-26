@@ -22,7 +22,9 @@ All the code for my videos can be found in my github repos, but you can find the
 Apart from everyting I write for my website, I maintain two projects for the open source world:
 - [EjemploRop](https://github.com/ElectNewt/EjemploRop): Implementation of Raiway oriented programming in C#.
 - [DiContainer](https://github.com/ElectNewt/Netmentor.DiContainer): Dependency injection container for C#.
-
+- [SocialGiveaway](https://github.com/ElectNewt/SocialGiveaway): App which allows to do raffles using different social network APIs.
+- [Distribt](https://github.com/ElectNewt/Distribt): Repo which impmeents a distributed system.
+ 
 You are free to join in the development to improve them.
 
 
