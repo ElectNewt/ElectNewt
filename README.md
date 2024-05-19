@@ -22,8 +22,11 @@ All the code for my videos can be found in my github repos, but you can find the
 Apart from everyting I write for my website, I maintain two projects for the open source world:
 - [EjemploRop](https://github.com/ElectNewt/EjemploRop): Implementation of Raiway oriented programming in C#.
 - [DiContainer](https://github.com/ElectNewt/Netmentor.DiContainer): Dependency injection container for C#.
+
+Alternatively I have a few more libraries that I've been working on.
 - [SocialGiveaway](https://github.com/ElectNewt/SocialGiveaway): App which allows to do raffles using different social network APIs.
-- [Distribt](https://github.com/ElectNewt/Distribt): Repo which impmeents a distributed system.
+- [Distribt](https://github.com/ElectNewt/Distribt): Repo which implements a distributed system.
+- [Guía completa de desarrollo full stack con .NET](https://www.netmentor.es/libros/guia-completa-desarrollo-full-stack): I wrote a book about building applications with .NET. 
  
 You are free to join in the development to improve them.
 
@@ -31,7 +34,7 @@ You are free to join in the development to improve them.
 
 ## Contact ⚡
 
-You can contacte me on [LinkedIn](https://www.linkedin.com/in/ivanabadandreu), [Twitter](https://twitter.com/NetMentorTw), or using my [Website](https://www.netmentor.es/contacto).
+You can contacte me on [LinkedIn](https://www.linkedin.com/in/ivanabadandreu), [Twitter](https://twitter.com/NetMentorTw), or using my [Website](https://www.netmentor.es/ivan-abad).
 
 
 ![ElectNewt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectNewt&show_icons=true&theme=buefy)
