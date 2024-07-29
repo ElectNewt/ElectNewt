@@ -19,7 +19,7 @@ All the code for my videos can be found in my github repos, but you can find the
 
 ## Side projects 👯
 
-Apart from everyting I write for my website, I maintain two projects for the open source world:
+Apart from everyting I write for my website, I mainly maintain for the open source world:
 - [EjemploRop](https://github.com/ElectNewt/EjemploRop): Implementation of Raiway oriented programming in C#.
 
 Alternatively I have a few more Projects that I've been working on.
